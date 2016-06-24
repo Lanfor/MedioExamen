@@ -116,7 +116,6 @@ public class MetodosNodo
             }
         }
     }
-    
     public int getPromedioEdad()
     {
         int promedio=0;
